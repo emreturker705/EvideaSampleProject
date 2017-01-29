@@ -1,0 +1,7 @@
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\bin\Debug\MVCPlugIn.dll
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\bin\Debug\MVCPlugIn.pdb
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\bin\Debug\PlugInContract.dll
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\bin\Debug\PlugInContract.pdb
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\obj\Debug\MVCPlugIn.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\obj\Debug\MVCPlugIn.dll
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\MVCPlugIn\obj\Debug\MVCPlugIn.pdb

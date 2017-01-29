@@ -1,0 +1,7 @@
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\bin\Debug\WindowsFormPlugIn.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\bin\Debug\WindowsFormPlugIn.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\bin\Debug\PlugInContract.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\bin\Debug\PlugInContract.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\obj\Debug\WindowsFormPlugIn.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\obj\Debug\WindowsFormPlugIn.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\WindowsFormPlugIn\obj\Debug\WindowsFormPlugIn.pdb

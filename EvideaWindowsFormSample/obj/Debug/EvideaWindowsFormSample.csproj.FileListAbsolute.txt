@@ -1,0 +1,15 @@
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\EvideaWindowsFormSample.exe.config
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\EvideaWindowsFormSample.exe
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\EvideaWindowsFormSample.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\PlugInContract.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\PlugInStarter.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\PlugInApplicationDomain.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\PlugInContract.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\PlugInStarter.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\bin\Debug\PlugInApplicationDomain.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.exe
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.Form1.resources

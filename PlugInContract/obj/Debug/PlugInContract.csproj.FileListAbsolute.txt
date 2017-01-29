@@ -1,0 +1,5 @@
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\PlugInContract\bin\Debug\PlugInContract.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\PlugInContract\bin\Debug\PlugInContract.pdb
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\PlugInContract\obj\Debug\PlugInContract.dll
+c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\PlugInContract\obj\Debug\PlugInContract.pdb
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\PlugInContract\obj\Debug\PlugInContract.csprojResolveAssemblyReference.cache
