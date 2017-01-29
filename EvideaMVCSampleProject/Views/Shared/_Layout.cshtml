@@ -13,14 +13,14 @@
             <div class="navbar-collapse collapse">
                 <ul class="navbar-brand">@Html.ActionLink("Application Name", "Index", "Home")</ul>
                 <ul class="nav navbar-nav">
-                    @*@foreach (var item in Model.Menu)
+                    @foreach (var item in Model)
                     {
                         <li>@Html.ActionLink( 
-                        (string)Model.ActionName, (string)Model.ActionName, (string)Model.ActionName)
+                        (string)item.ActionName, (string)item.ActionName, (string)item.ActionName)
 
                         </li>
    
-                    }*@
+                    }
                     <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "active" })</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>

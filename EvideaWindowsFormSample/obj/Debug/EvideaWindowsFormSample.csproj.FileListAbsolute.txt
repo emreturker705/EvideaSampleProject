@@ -13,3 +13,6 @@ c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\Evid
 c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.exe
 c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.pdb
 c:\users\emre\documents\visual studio 2012\Projects\PlugInApplicationDomain\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.Form1.resources
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\EvideaSampleProject\EvideaWindowsFormSample\bin\Debug\EvideaWindowsFormSample.exe.config
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\EvideaSampleProject\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.exe
+C:\Users\Emre\Documents\Visual Studio 2012\Projects\PlugInApplicationDomain\EvideaSampleProject\EvideaWindowsFormSample\obj\Debug\EvideaWindowsFormSample.pdb
